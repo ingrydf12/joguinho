@@ -10,5 +10,5 @@ Atualmente:
 
 > Criando tileset (04/01/2023)
 
-> Nada (05/01/2023) 
-
+> Nada (05/01/2023 a 09/01/2023) 
+> Estudar sobre geração de cenários e adicionar transições básicas

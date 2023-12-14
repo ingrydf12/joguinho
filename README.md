@@ -1,5 +1,5 @@
 # joguinho
-GameMaker
+Testando mecânicas no GameMaker
 
 Atualmente:
 > Adição de um menu (02/01/2023)

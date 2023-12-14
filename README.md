@@ -12,3 +12,5 @@ Atualmente:
 
 > Nada (05/01/2023 a 09/01/2023) 
 > Estudar sobre geração de cenários e adicionar transições básicas
+
+> Testei transição fade-in e fade-out (não consegui colocar ao apertar o enter, verificando ainda)
